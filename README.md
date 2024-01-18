@@ -56,3 +56,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
   <img width="12" />
 </div>
+
+---
+
+## Contacto
+
+- **Mi web**
+  https://code-cube.netlify.app/
+
+- **Linkedin**
+  https://www.linkedin.com/in/bruno-orgilles-309505262
