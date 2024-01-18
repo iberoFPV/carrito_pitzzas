@@ -36,12 +36,12 @@
 
 ---
 
-- **Carrito de Compra:** La función `updateShoppingCart` permite a los usuarios ver las pizzas seleccionadas, ajustar las cantidades y eliminar elementos del carrito.
+- **Carrito de Compra:**
 
 ---
 
 <div align="center">
-  <img src="capturas/vista_carrito.png.png" alt="Vista Previa Carrito" width="1000px" height="500px"/>
+  <img src="capturas/vista_carrito.png" alt="Vista Previa Carrito" width="1000px" height="500px"/>
 </div>
 
 ---
