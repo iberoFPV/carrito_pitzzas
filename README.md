@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+<h1 align="center" style="color: #0366d6;">
+   Simulador de Carrito de Compra de Pizzería Online
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **Prueba del Proyecto:** Para experimentar con todas las funcionalidades del proyecto, sigue estos pasos:
 
-## Available Scripts
+  1. Realiza una copia local del repositorio o descárgalo.
+  2. Abre una terminal y navega hasta el directorio del proyecto.
+  3. Ejecuta el siguiente comando para instalar las dependencias:
 
-In the project directory, you can run:
+     ```bash
+     npm install
+     ```
 
-### `npm start`
+     Este comando descargará e instalará las bibliotecas y herramientas necesarias para ejecutar el proyecto.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  4. Una vez completada la instalación, inicia la aplicación con el siguiente comando:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+     ```bash
+     npm start
+     ```
 
-### `npm test`
+     Esto iniciará el servidor local y abrirá la aplicación en tu navegador predeterminado.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  5. Explora el simulador de carrito de compra de pizzería, selecciona pizzas, ajusta cantidades y disfruta de la experiencia de compra.
 
-### `npm run build`
+  Ten en cuenta que estos comandos deben ejecutarse en un entorno Node.js y se asume que ya tienes Node.js y npm instalados en tu sistema.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Selección de Pizzas:** Los usuarios pueden seleccionar diferentes pizzas y agregarlas al carrito de compra.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="center">
+  <img src="capturas/pag_inicial.png" alt="Vista Previa" width="1000px" height="500px"/>
+</div>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Carrito de Compra:** La función `updateShoppingCart` permite a los usuarios ver las pizzas seleccionadas, ajustar las cantidades y eliminar elementos del carrito.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="center">
+  <img src="capturas/vista_carrito.png.png" alt="Vista Previa" width="1000px" height="500px"/>
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Tecnologías Utilizadas ⚙️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
+  <img width="12" />
+</div>
